@@ -1,0 +1,51 @@
+{
+  "term": "January IAP",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "legacy_uid": "2e8cf72d-4bd3-88eb-9671-b34e5a8729b6",
+  "instructors": {
+    "content": [
+      "7bf19d54-c8bf-7c82-688d-afc6a01c0d0f",
+      "919bc91e-6c22-efce-fa83-e1f40a143b1d",
+      "d70285ba-20a7-90e7-de4f-66385cca0349"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b128e8bb-ad92-049f-5516-f79ec21139fc",
+    "website": "6-096-introduction-to-c-january-iap-2011"
+  },
+  "course_title": "Introduction to C++",
+  "course_description": "This is a fast-paced introductory course to the C++ programming language. It is intended for those with little programming background, though prior programming experience will make it easier, and those with previous experience will still learn C++-specific constructs and concepts.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.096",
+  "course_image_thumbnail": {
+    "content": "19b4a1c9-cae6-ba9e-104d-0e5c2928e894",
+    "website": "6-096-introduction-to-c-january-iap-2011"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Programming Assignments with Examples"
+  ],
+  "site_uid": "a88cd8a1-47e0-4406-9807-45dd9f5b797f",
+  "site_short_id": "6.096-january-iap-2011",
+  "site_url_path": "courses/6-096-introduction-to-c-january-iap-2011",
+  "title": "Course Metadata"
+}
