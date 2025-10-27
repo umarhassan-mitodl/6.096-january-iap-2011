@@ -30,7 +30,6 @@
     "website": "6-096-introduction-to-c-january-iap-2011"
   },
   "course_title": "Introduction to C++",
-  "hide_download": true,
   "course_description": "This is a fast-paced introductory course to the C++ programming language. It is intended for those with little programming background, though prior programming experience will make it easier, and those with previous experience will still learn C++-specific constructs and concepts.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
   "department_numbers": [
     "6"
@@ -41,7 +40,6 @@
     "content": "19b4a1c9-cae6-ba9e-104d-0e5c2928e894",
     "website": "6-096-introduction-to-c-january-iap-2011"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Programming Assignments with Examples"
